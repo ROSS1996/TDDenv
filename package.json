@@ -1,0 +1,25 @@
+{
+  "name": "tddenv",
+  "version": "1.0.0",
+  "description": "Javascript tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ROSS1996/TDDenv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ROSS1996/TDDenv/issues"
+  },
+  "homepage": "https://github.com/ROSS1996/TDDenv#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.1",
+    "jest": "^29.3.1"
+  }
+}
